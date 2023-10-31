@@ -1,5 +1,3 @@
-# Collections
-
 # Projeto de Estudo das Coleções em Programação
 
 Este projeto tem como objetivo explorar e aprofundar o conhecimento sobre diversas coleções em programação, como List, Dictionary, Set, entre outras. O entendimento sólido dessas estruturas de dados é essencial para qualquer desenvolvedor e pode melhorar significativamente a eficiência e a qualidade do código.
