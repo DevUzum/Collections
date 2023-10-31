@@ -38,9 +38,4 @@ Além das coleções mencionadas acima, existem muitas outras, como Stack, Queue
 
 Neste repositório, você encontrará exemplos de código que demonstram como usar as diferentes coleções. Cada exemplo é acompanhado por comentários explicativos para facilitar a compreensão.
 
-## Referências
-
-- [Link para a documentação oficial da linguagem de programação que você está usando, se aplicável]
-- [Qualquer outra referência relevante]
-
 Este projeto é uma valiosa fonte de aprendizado para desenvolvedores que desejam entender melhor o uso e a implementação de coleções em programação. Sinta-se à vontade para explorar os exemplos e aprofundar seu conhecimento sobre essas estruturas de dados essenciais.
